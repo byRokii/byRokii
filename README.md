@@ -1,8 +1,8 @@
-### Hi there, I am Jhon Flores👋
+# Hi there, I am Jhon Flores👋
 
 ## A passionate frontend developer from Venezuela.
 
-Commands Linux
+## Commands Linux
 
 - mkdir: Create a directory with the name you want
 - ls: List the files or folders
