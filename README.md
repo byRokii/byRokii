@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I am Jhon Flores👋
 
-<!--
-**byRokii/byRokii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A passionate frontend developer from Venezuela.
 
-Here are some ideas to get you started:
+Commands Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- mkdir: Create a directory with the name you want
+- ls: List the files or folders
+- cd: Takes you to the previous folder
+- pwd: Print the route you are on
+- rm: Remove the folders or files
+- cp: Copy the file at a new destiny
+- touch: Create a file with the name and extension you want
+- code. : Open the folder where you are in VsCode
