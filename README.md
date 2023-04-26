@@ -1,14 +1,13 @@
 # Hi there, I am Jhon Flores👋
 
-## A passionate frontend developer from Venezuela.
+## A passionate frontend developer from Venezuela. I really like the blockchain and crytos.
 
-## Commands Linux
+### Favorite linux commands
 
-- mkdir: Create a directory with the name you want
-- ls: List the files or folders
-- cd: Takes you to the previous folder
-- pwd: Print the route you are on
-- rm: Remove the folders or files
-- cp: Copy the file at a new destiny
-- touch: Create a file with the name and extension you want
-- code. : Open the folder where you are in VsCode
+| command | description | 
+|---------|-------------|
+    cd    |    Takes you to the previous folder |
+    ls    |    List the files or folders |
+    ng    |    Create an Angular workspace in the folder and generate a new app structure |
+    npm   |    Used to install packages |
+    clear |    Clear the screen |
