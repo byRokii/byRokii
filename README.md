@@ -11,3 +11,9 @@
 | ng | Create an Angular workspace in the folder and generate a new app structure |
 | npm | Used to install packages |
 | clear | Clear the screen |
+
+### Favorite alias
+
+```
+   alias mostused='history | awk '\''{print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'
+```
