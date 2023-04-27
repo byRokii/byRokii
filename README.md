@@ -14,6 +14,8 @@
 
 ### Favorite alias
 
-```
-   alias mostused='history | awk '\''{print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'
-```
+| ALIAS | COMMAND |
+|  ------ | ------ |
+|  ls  | list  |
+|  cl |clear screen |
+|  rm | remove |
